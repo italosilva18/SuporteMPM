@@ -1,0 +1,3 @@
+cd .\venv\Scripts\          
+C:\Users\Costa\PycharmProjects\SuporteMPM\venv\Scripts> .\activate
+py .\manage.py runserver 
