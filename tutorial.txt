@@ -1,0 +1,18 @@
+Cono foi feito o Sistema.
+
+1- installar Python
+2- pip install django [NA PASTA RAIZ]
+3- pip install djangorestframework [NA PASTA RAIZ]
+4- pip install django-cors-headers [NA PASTA RAIZ]
+5- django-admin startproject [digite o nome do projeto]
+
+
+
+
+
+
+
+
+cd .\venv\Scripts\          
+C:\Users\Costa\PycharmProjects\SuporteMPM\venv\Scripts> .\activate
+py .\manage.py runserver 
