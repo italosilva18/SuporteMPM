@@ -9,13 +9,11 @@ Cono foi feito o Sistema.
 7- py .\manage.py runserver
 8- ctrl -C
 9- py .\manage.py startapp SuporteApp
+10- Definir em INSTALLED_APPS o que foi instalado
+    {
+        rest_framework
+        cors-headers
+        SuporteApp.apps.SuporteAppConfig
+    }
+11-  
 
-
-
-
-
-
-
-cd .\venv\Scripts\          
-C:\Users\Costa\PycharmProjects\SuporteMPM\venv\Scripts> .\activate
-py .\manage.py runserver 
