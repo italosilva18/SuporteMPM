@@ -1,3 +1,4 @@
 venv
 bizu
-db.sqlite3
+db.
+__pycache__
