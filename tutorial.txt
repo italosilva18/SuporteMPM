@@ -1,6 +1,10 @@
 Cono foi feito o Sistema.
 
 1- installar Python
+2- py -m venv venv ( para ativar o ambiente virtual)
+3 se estiver no visual code PowershellADMIN (Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser)
+
+
 2- pip install django [NA PASTA RAIZ]
 3- pip install djangorestframework [NA PASTA RAIZ]
 4- pip install django-cors-headers [NA PASTA RAIZ]
