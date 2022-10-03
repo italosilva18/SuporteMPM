@@ -17,3 +17,7 @@ class suporte(models.Model):
     status = models.CharField(max_length=100)
     obs = models.TextField()
     slug = models.SlugField()
+
+    def __str__(self):
+        return self.nome_fantasia
+  
